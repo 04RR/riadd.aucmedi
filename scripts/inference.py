@@ -38,7 +38,7 @@ from retinal_crop import Retinal_Crop
 os.environ["CUDA_VISIBLE_DEVICES"]="2"
 
 # Provide pathes to imaging data
-path_riadd = "../input/retinal-image-testset/Test_Set/"
+path_riadd = "../input/retinal-image-testset/Test_Set/Test/"
 
 # Define some parameters
 k_fold = 5
